@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Nguyen Quang Anh
+* Student Name: Nguyen Quang Anh 
 * Student ID: 22BA13023
 
